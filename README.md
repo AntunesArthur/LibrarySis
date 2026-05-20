@@ -1,6 +1,6 @@
-readme_content = """# Sistema de Gerenciamento de Biblioteca 📚
+# LibrarySis
 
-Este projeto foi desenvolvido com o objetivo de resolver o problema de organização de uma biblioteca municipal, controlando de forma eficiente o ciclo de vida dos empréstimos de livros. A aplicação integra **Python** com o banco de dados **MySQL** para gerenciar transições de estado, manipulação de dados e cálculos complexos envolvendo datas.
+Este projeto foi desenvolvido com o objetivo de resolver o problema de organização de uma biblioteca municipal, controlando de forma eficiente o ciclo de vida dos empréstimos de livros. A aplicação integra Python com o banco de dados MySQL para gerenciar transições de estado e manipulação de dados.
 
 ---
 
